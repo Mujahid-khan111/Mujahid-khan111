@@ -1,6 +1,6 @@
 
     
-  ![logo](https://github.com/Mujahid-khan111/-Mujahid-khan111/blob/main/IMG_20240923_182448_294.webp)
+  ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/IMG_20240923_182448_294.webp)
 <h1 align=" center">Hi 👋, I'm Mujahid - Gurjer</h1>
     <h3 align="center">A passionate frontend devloper From India</h3>
 
