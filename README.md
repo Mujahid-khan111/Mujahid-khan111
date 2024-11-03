@@ -1,4 +1,5 @@
 ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/IMG_20240924_044301_226.webp)
+![LOgo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/Blue%20Futuristic%20Technology%20Presentation%20(1).pdf)
 <h1 align=" center">Hi 👋, I'm Mujahid - Gurjer</h1>
     <h3 align="center">A passionate frontend devloper From India</h3>
 
