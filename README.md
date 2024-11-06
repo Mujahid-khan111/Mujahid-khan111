@@ -1,5 +1,5 @@
     ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/Screenshot%20from%202024-11-03%2021-11-23.png)
-<h1 align=" center">Hi 👋, I'm Mujahid - Gurjer</h1>
+<h1 align=" center">Hi 👋, I'm Mujahid - Gurjar</h1>
     <h3 align="center">A passionate frontend devloper From India</h3>
 
   <img align="right" alt="coding" width="400"
