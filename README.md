@@ -1,4 +1,3 @@
-     ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/Screenshot%20from%202024-11-03%2021-11-23.png)
  ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/github.jpg)
 <h1 align=" center">Hi 👋, I'm Mujahid - Gurjar</h1>  
     <h3 align="center">A passionate frontend devloper From India</h3>
@@ -54,3 +53,4 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujahid-khan111&"
             alt="mujahid-khan111" /></p>
   
+     ![logo](https://github.com/Mujahid-khan111/Mujahid-khan111/blob/main/Screenshot%20from%202024-11-03%2021-11-23.png)
