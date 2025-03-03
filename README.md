@@ -19,7 +19,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
         <a href="https://fb.com/mujahid gurjar" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                 alt="mujahid gurjar" height="30" width="40" /></a>
-        <a href="https://instagram.com/111-mujahid-gurjar" target="blank"><img align="center"
+        <a href="https://www.instagram.com/codingedit2024/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="111-mujahid-gurjar" height="30" width="40" /></a>
     </p>
